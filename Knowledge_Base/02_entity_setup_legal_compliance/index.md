@@ -1,0 +1,30 @@
+# Category: Entity Setup, Legal & Compliance
+
+Contracts covering the "establish legal vehicle" stage of the GCC lifecycle: incorporating the Indian subsidiary, ongoing corporate secretarial/governance administration, tax registration and compliance, regulatory/establishment licences, and intercompany services with transfer-pricing implementation. These are the legal and statutory-compliance building blocks that must be in place before or alongside workforce and workplace setup.
+
+Use this folder when the question is about: incorporation steps, board/company-secretarial administration, GST/tax registration and filings, labour/establishment licences (Shops & Establishments, PF/ESI, etc.), or intercompany cost-plus/transfer-pricing arrangements.
+
+| # | File | Contract Type | Client | India Location | Effective – Expiration | Value | Risk |
+|---|---|---|---|---|---|---|---|
+| 06 | [06_india_entity_incorporation_services_agreement.md](06_india_entity_incorporation_services_agreement.md) | India Entity Incorporation Services Agreement | Northstar Robotics Inc. (USA) | Bengaluru | 2026-01-12 – 2026-07-31 | INR 925,000 | Medium |
+| 07 | [07_corporate_secretarial_and_governance_services_agreement.md](07_corporate_secretarial_and_governance_services_agreement.md) | Corporate Secretarial and Governance Services Agreement | Velora Mobility India Private Limited (Germany parent) | Pune | 2026-04-01 – 2027-03-31 (auto-renews) | INR 1,440,000/yr | Low |
+| 08 | [08_tax_registration_and_compliance_support_agreement.md](08_tax_registration_and_compliance_support_agreement.md) | Tax Registration and Compliance Support Agreement | Kepler Clinical Data India Private Limited (UK parent) | Hyderabad | 2026-02-15 – 2027-02-14 | INR 2,380,000 | High |
+| 09 | [09_regulatory_licences_and_establishment_compliance_agreement.md](09_regulatory_licences_and_establishment_compliance_agreement.md) | Regulatory Licences and Establishment Compliance Agreement | Solstice Renewables India Private Limited (Denmark parent) | Chennai | 2026-06-01 – 2028-05-31 | INR 3,120,000 | Medium |
+| 10 | [10_intercompany_services_and_transfer_pricing_implementation_agreement.md](10_intercompany_services_and_transfer_pricing_implementation_agreement.md) | Intercompany Services and Transfer-Pricing Implementation Agreement | LumenArc Systems Pte. Ltd. (Singapore) | Gurugram | 2026-04-01 – 2029-03-31 (auto-renews) | USD 12,600,000 (forecast) | High |
+
+## Summaries
+
+### 06 — India Private Limited Company Incorporation Services Agreement
+CedarBridge Corporate Services incorporates a wholly owned Indian subsidiary ("Northstar Robotics India Private Limited") in Bengaluru for Northstar Robotics Inc. (Boston-based). Scope: name reservation, DIN/DSC coordination, charter documents, incorporation filing, PAN/TAN, GST/professional-tax/Shops & Establishments registration, statutory records starter pack, and bank-account opening support. Explicitly excludes legal/tax opinions, ongoing secretarial compliance, and immigration. Fixed fee INR 925,000 in three milestone payments. Provider does not act as nominee director/shareholder and gives no guarantee on approval timing. Governing law: Karnataka; arbitration in Bengaluru.
+
+### 07 — Corporate Secretarial and Board Governance Services Agreement
+Harborstone Governance Advisors provides routine ongoing corporate-secretarial and board-governance administration for Velora Mobility India Private Limited (Pune GCC, German mobility-tech parent): compliance calendar, statutory registers, board-meeting support (up to 6 meetings + AGM), annual return filings, director KYC tracking, and beneficial-ownership reporting support. Excludes litigation, legal opinions, M&A, and tax advice. Annual fee INR 1,440,000, invoiced quarterly; auto-renews annually unless 60 days' notice given. Lowest-risk contract in this category. Governing law: Maharashtra; arbitration in Pune.
+
+### 08 — India Tax Registration and Ongoing Compliance Support Agreement
+Oriole Tax & Accounting Advisory handles tax registrations (GST, TDS/TCS, professional tax, income-tax e-filing) and ongoing compliance (monthly/quarterly GST returns, withholding-tax, advance tax, annual corporate income-tax return, audit coordination) for Kepler Clinical Data India Private Limited (Hyderabad, UK clinical-software parent). Includes a bounded transfer-pricing "reasonableness check" but excludes full benchmarking studies, master file, or APA work. Total fee INR 2,380,000 for a 12-month term. High risk rating reflects tax/regulatory exposure and highly confidential data classification. Governing law: Telangana; arbitration in Hyderabad.
+
+### 09 — India Establishment Registrations and Regulatory Licence Management Agreement
+Banyan Regulatory Solutions manages establishment-level regulatory registrations (Tamil Nadu Shops & Establishments, professional tax, EPF/ESI coordination, labour welfare fund, contract-labour compliance, fire/building compliance tracking) for Solstice Renewables India Private Limited's up-to-320-person Chennai office (Danish renewable-energy parent). Includes renewal reminders, quarterly desk reviews, and an annual onsite review with Critical/High/Medium/Low findings. 24-month term, INR 3,120,000 total, quarterly invoicing. Governing law: Tamil Nadu; arbitration in Chennai.
+
+### 10 — Intercompany GCC Services and Cost-Plus Implementation Agreement
+LumenArc Systems India Private Limited (captive GCC in Gurugram) provides development, QA, analytics, AP, and procurement-admin services to its Singapore parent/Principal, LumenArc Systems Pte. Ltd., under a cost-plus-12.5%-markup transfer-pricing model. Covers cost-base definition, allocation methodology, monthly invoicing with quarterly/annual true-up, transfer-pricing documentation obligations, and IP vesting (Developed IP vests in Principal). Forecast three-year value USD 12,600,000 (not a minimum commitment). Highest contract value in this category and high risk given transfer-pricing/tax exposure. Unusually, this is the only India-category contract governed by England & Wales law, with SIAC arbitration seated in Singapore.
