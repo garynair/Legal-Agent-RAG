@@ -1,3 +1,5 @@
+![Exercise: Build a Simple Legal Contract RAG Knowledge Base](docs/banner.png)
+
 # Exercise: Build a Simple Legal Contract RAG Knowledge Base
 
 ## Learning Objective
