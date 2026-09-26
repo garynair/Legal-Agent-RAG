@@ -1,14 +1,16 @@
-![Exercise: Build a Simple Legal Contract RAG Knowledge Base](docs/banner.png)
+![Exercise: Legal Contract Retrieval with Hierarchical Indexes](docs/banner.png)
 
-# Exercise: Build a Simple Legal Contract RAG Knowledge Base
+# Exercise: Legal Contract Retrieval with Hierarchical Indexes
+
+> **Implementation status:** This repository demonstrates hierarchical, index-guided document retrieval for LLM-assisted contract review. It does not implement embeddings, a vector database, semantic similarity search, an executable agent, or an automated RAG evaluation pipeline.
 
 ## Learning Objective
 
 By the end of this exercise, participants should understand:
 
-- Why RAG (Retrieval-Augmented Generation) exists.
+- Why retrieval is a core stage of RAG (Retrieval-Augmented Generation).
 - Why sending every document to an LLM is expensive.
-- How indexing reduces token usage and cost.
+- How hierarchical indexing can reduce token usage and cost.
 - How Claude CoWork can organize documents into a searchable knowledge base.
 
 ---
@@ -46,7 +48,7 @@ Problems
 
 ---
 
-### Option B (With RAG)
+### Option B (Index-Guided Retrieval)
 
 The AI first finds the relevant contracts.
 
@@ -236,7 +238,7 @@ Claude CoWork then works only with the Markdown files to build the knowledge bas
 
 The objective is **not** to build a perfect legal search engine.
 
-The objective is to understand the RAG workflow:
+The objective is to understand the document-retrieval stage used in RAG workflows:
 
 ```
 PDFs
